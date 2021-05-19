@@ -1,2 +1,6 @@
 ignoreFiles:
   - '**/__snapshots__/*.js'
+allowedLicenses:
+  - 'Apache-2.0'
+  - 'BSD-3'
+  - 'MIT'
