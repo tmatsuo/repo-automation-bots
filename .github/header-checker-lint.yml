@@ -1,5 +1,5 @@
 
-{"allowedCopyrightHolders": ["Google LLC", "Google, Inc"],
+{"allowedCopyrightHolders": ["Google LLC", "Google, Inc", "TMatsuo"],
  "allowedLicenses": ["Apache-2.0", "MIT", "BSD-3"],
  "ignoreFiles": ["**/requirements.txt", "**/requirements-test.txt", "**/requirements-composer.txt", "**/__init__.py", "**/constraints.txt", "**/constraints-test.txt"],
  "sourceFileExtensions": [
