@@ -1,2 +1,4 @@
 ignoreFiles:
   - '**/__snapshots__/*.js'
+allowedLicenses:
+  - 'GPL'
