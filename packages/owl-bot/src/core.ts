@@ -106,7 +106,7 @@ export async function triggerPostProcessBuild(
     triggerId: args.trigger,
     source: {
       projectId: project,
-      branchName: 'master',
+      branchName: 'owl-bot-test', // TODO: revert
       substitutions: {
         _GITHUB_TOKEN: token.token,
         _PR: args.pr.toString(),
